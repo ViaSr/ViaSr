@@ -1,16 +1,24 @@
-## Hi there 👋
+## Landon Alison — Software & Embedded Systems
 
-<!--
-**ViaSr/ViaSr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS grad (UNCG '24) working at the intersection of embedded firmware,
+data pipelines, and scientific computing.
 
-Here are some ideas to get you started:
+**Currently:** Robotics & Coding Coach @ Zebra Robotics
+I teach robotics and coding professionally — and build embedded
+systems on my own time. Writing C/C++ firmware for ESP32-based
+systems: I2C sensor arrays (MPU6050 gyro, VL53L0X ToF, TCS34725
+color), motor control, real-time feedback loops.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- [CIE-Toolkit](https://github.com/ViaSr/CIE-Toolkit) —
+  CIE colorimetry from scratch in Python/NumPy.
+  Matrix-based color space conversion, display calibration,
+  gamut analysis.
+- [ClassifyAging](https://github.com/ViaSr/ClassifyingAging) —
+  Full-stack .NET 8 + React platform for aging research,
+  with AI chat powered by Claude API.
+
+**Interested in:** Medical device software, embedded systems,
+scientific computing, signal processing.
+
+📍 Research Triangle Park, NC
