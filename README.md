@@ -1,10 +1,10 @@
-## Landon Alison — Software & Embedded Systems
+## Landon A — Software & Embedded Systems
 
-CS grad (UNCG '24) working at the intersection of embedded firmware,
+CS grad ('24) working at the intersection of embedded firmware,
 data pipelines, and scientific computing.
 
-**Currently:** Robotics & Coding Coach @ Zebra Robotics
-I teach robotics and coding professionally — and build embedded
+**Currently:** Robotics & Coding Educator
+I teach robotics and coding professionally... and build embedded
 systems on my own time. Writing C/C++ firmware for ESP32-based
 systems: I2C sensor arrays (MPU6050 gyro, VL53L0X ToF, TCS34725
 color), motor control, real-time feedback loops.
@@ -20,5 +20,3 @@ color), motor control, real-time feedback loops.
 
 **Interested in:** Medical device software, embedded systems,
 scientific computing, signal processing.
-
-📍 Research Triangle Park, NC
