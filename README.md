@@ -1,6 +1,4 @@
-## Landon A — Software & Embedded Systems
-
-CS grad ('24) working at the intersection of embedded firmware,
+Developer working at the intersection of embedded firmware,
 data pipelines, and scientific computing.
 
 **Currently:** Robotics & Coding Educator
