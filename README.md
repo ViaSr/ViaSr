@@ -7,7 +7,7 @@ systems on my own time. Writing C/C++ firmware for ESP32-based
 systems: I2C sensor arrays (MPU6050 gyro, VL53L0X ToF, TCS34725
 color), motor control, real-time feedback loops.
 
-**Projects:**
+**Primary Projects:**
 - [CIE-Toolkit](https://github.com/ViaSr/CIE-Toolkit) —
   CIE colorimetry from scratch in Python/NumPy.
   Matrix-based color space conversion, display calibration,
